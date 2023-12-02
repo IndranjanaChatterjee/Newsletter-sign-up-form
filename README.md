@@ -13,8 +13,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Newsletter-sign-up-form)
+- Live Site URL: [live site URL](https://newsletter-sol.netlify.app/)
 
 ## My process
 
